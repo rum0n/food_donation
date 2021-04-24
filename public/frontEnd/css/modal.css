@@ -1,0 +1,28 @@
+.modal-dialog {
+    min-width: 700px;
+}
+
+.entry-title.w-100.m-0 {
+    text-align: left;
+}
+
+.cause-content-wrap .entry-content {
+    margin-top: 25px;
+    text-align: left;
+}
+
+.modal-header {
+    background: #f74a06;
+}
+
+input[type="checkbox"], input[type="radio"] {
+    margin-top: 8px;
+    margin-left: -5px;
+}
+
+
+
+
+
+
+
